@@ -1,1 +1,2 @@
-# ecommerce-sql-project
+# ecommerce-sql-projec
+weather project
